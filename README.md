@@ -2,7 +2,7 @@
 
 ## About
 
-Brady's Web Box is designed to facilitate the hosting and downloading of large files, making it easier for external users to access these files without the need for credentials on various file-sharing websites. This project aims to streamline the process of sharing large files across the internet to individuals, focusing on simplicity and accessibility.
+Brady's Web Box is designed to facilitate the hosting and downloading of large files, making it easier for external users to access these files without the need for credentials on various file-sharing websites. This project aims to streamline the process of sharing large files across the internet to individuals, focusing on simplicity and accessibility. This is done useing free methods only. 
 
 ## Key Features
 
