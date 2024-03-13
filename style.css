@@ -41,4 +41,25 @@ footer {
 .github-link:hover {
     background-color: #555; /* Darker shade for hover effect */
 }
+.useful-links h2 {
+    margin-top: 30px;
+    color: #333;
+}
 
+.useful-links ul {
+    list-style: none; /* Removes the default list bullets */
+    padding: 0;
+}
+
+.useful-links li {
+    margin-bottom: 10px; /* Adds some space between links */
+}
+
+.useful-links a {
+    color: #0066CC;
+    text-decoration: none; /* Removes the underline from links */
+}
+
+.useful-links a:hover {
+    text-decoration: underline; /* Adds an underline on hover for better visibility */
+}
