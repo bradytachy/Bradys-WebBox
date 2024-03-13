@@ -19,4 +19,26 @@ body {
     background: white;
     padding: 20px;
     border-radius: 8px;
-   
+}
+
+footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc; /* Adds a slight separation line for aesthetic purposes */
+}
+
+.github-link {
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.github-link:hover {
+    background-color: #555; /* Darker shade for hover effect */
+}
+
